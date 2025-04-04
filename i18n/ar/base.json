@@ -1,0 +1,40 @@
+{
+  "header": {
+    "name": "محمود هرموش",
+    "job_title": "مهندس روست متكامل",
+    "website": "الموقع الإلكتروني",
+    "email": "البريد الإلكتروني",
+    "linkedin": "لينكدإن"
+  },
+  "education": {
+    "title": "التعليم",
+    "university": {
+      "institution": "الجامعة اللبنانية، طرابلس، الفرع الأول",
+      "date": "2015 - 2020",
+      "description": "ماجستير في الهندسة - MEng."
+    }
+  },
+  "experience": {
+    "title": "الخبرة",
+    "description_1": "مراجعة توقعات العملاء ومعايير المشروع والتوصية بحزم برمجية مناسبة.",
+    "description_2": "تطوير مكونات الواجهة الأمامية باستخدام ReactJS v18 مدمجة مع REST APIs.",
+    "description_3": "تصميم أنظمة خلفية تعتمد على الخدمات المصغّرة باستخدام FastAPI و Redis و Docker.",
+    "description_4": "تأليف كتب برمجة نظم بلغة روست لصالح OrangeAVA ونشر مقالات تقنية على Medium."
+  },
+  "skills": {
+    "title": "المهارات",
+    "categories": {
+      "design": "الهندسة والتصميم",
+      "tools": "الأدوات والأطر",
+      "languages": "اللغات"
+    },
+    "items": {
+      "project_architecture": "Escalidraw، Diagrams",
+      "ci_cd": "GitHub Actions، Docker Compose v2",
+      "frontend": "React، MUI، Redux",
+      "backend": "FastAPI، Django، Nginx، Redis، Celery، MySQL، SQLAlchemy، ODMantic",
+      "languages": "Rust، Python، C#، HTML/CSS، JavaScript",
+      "other_tools": "Docker، OAuth، JWT، HTTP، Railway، Supabase، Unity 2D، ThirdWeb SDK"
+    }
+  }
+}

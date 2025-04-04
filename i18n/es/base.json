@@ -1,0 +1,40 @@
+{
+  "header": {
+    "name": "Mahmoud Harmouch",
+    "job_title": "Ingeniero Full Stack en Rust",
+    "website": "Sitio web",
+    "email": "Correo electrónico",
+    "linkedin": "LinkedIn"
+  },
+  "education": {
+    "title": "Educación",
+    "university": {
+      "institution": "Universidad Libanesa, Trípoli, Sucursal I",
+      "date": "2015 - 2020",
+      "description": "Maestría en Ingeniería - MEng."
+    }
+  },
+  "experience": {
+    "title": "Experiencia",
+    "description_1": "Revisión de expectativas del cliente y parámetros del proyecto, recomendando paquetes de software adecuados.",
+    "description_2": "Desarrollo de componentes frontend utilizando ReactJS v18 integrados con APIs REST.",
+    "description_3": "Diseño de backends basados en microservicios usando FastAPI, Redis y Docker para despliegue.",
+    "description_4": "Escribí libros sobre programación de sistemas en Rust para OrangeAVA y publiqué artículos técnicos en Medium."
+  },
+  "skills": {
+    "title": "Habilidades",
+    "categories": {
+      "design": "Arquitectura y Diseño",
+      "tools": "Herramientas y Frameworks",
+      "languages": "Lenguajes"
+    },
+    "items": {
+      "project_architecture": "Escalidraw, Diagrams",
+      "ci_cd": "GitHub Actions, Docker Compose v2",
+      "frontend": "React, MUI, Redux",
+      "backend": "FastAPI, Django, Nginx, Redis, Celery, MySQL, SQLAlchemy, ODMantic",
+      "languages": "Rust, Python, C#, HTML/CSS, JavaScript",
+      "other_tools": "Docker, OAuth, JWT, HTTP, Railway, Supabase, Unity 2D, ThirdWeb SDK"
+    }
+  }
+}
